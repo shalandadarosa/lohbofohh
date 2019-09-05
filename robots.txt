@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nohmaesah.jessmorrisart.com/sitemap.xml
